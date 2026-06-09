@@ -1,9 +1,9 @@
 [app]
-title = AI Travel Anywhere
-package.name = aitravelanywhere
+title = AI Travel App
+package.name = aitravelapp
 package.domain = org.ia
 source.dir = .
-source.include_exts = py,png,jpg,jpeg,html,css,js,txt,sh
+source.include_exts = py,png,jpg,kv,html,css,js
 source.include_patterns = templates/*, static/*
 version = 0.0.7
 
